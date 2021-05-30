@@ -21,7 +21,13 @@
 </div>
 <br>
 <div>
-  <b>1. employee card list</b><br>
+  <b>1. Add employee</b><br>
   <img src="images/5.png"/>
 </div>
+<br>
+<div>
+  <b>1. Employee Card list</b><br>
+  <img src="images/6.png"/>
+</div>
+
 
